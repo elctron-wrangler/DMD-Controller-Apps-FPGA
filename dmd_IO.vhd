@@ -1,6 +1,6 @@
 #################################################################################-
 #- Company: LASP
-#- Engineer: William Snyder
+#- Engineer: William A Snyder
 #-
 #- Create Date: 2025-09-12
 #- Design Name: SUMO APPS FPGA
